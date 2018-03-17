@@ -1,0 +1,12 @@
+E:\.net core test\netCoreMvcTest
+--output-path=obj\debug\netcoreapp2.0\
+--application-name=netCoreMvcTest
+--content-root=E:\.net core test\netCoreMvcTest
+--file=E:\.net core test\netCoreMvcTest\Views\Home\About.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\Home\Contact.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\Home\Index.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\Shared\Error.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\Shared\_Layout.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\_ViewImports.cshtml
+--file=E:\.net core test\netCoreMvcTest\Views\_ViewStart.cshtml

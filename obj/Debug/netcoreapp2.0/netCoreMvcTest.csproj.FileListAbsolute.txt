@@ -1,0 +1,11 @@
+E:\.net core test\netCoreMvcTest\bin\Debug\netcoreapp2.0\netCoreMvcTest.deps.json
+E:\.net core test\netCoreMvcTest\bin\Debug\netcoreapp2.0\netCoreMvcTest.runtimeconfig.json
+E:\.net core test\netCoreMvcTest\bin\Debug\netcoreapp2.0\netCoreMvcTest.runtimeconfig.dev.json
+E:\.net core test\netCoreMvcTest\bin\Debug\netcoreapp2.0\netCoreMvcTest.dll
+E:\.net core test\netCoreMvcTest\bin\Debug\netcoreapp2.0\netCoreMvcTest.pdb
+E:\.net core test\netCoreMvcTest\obj\Debug\netcoreapp2.0\netCoreMvcTest.csprojResolveAssemblyReference.cache
+E:\.net core test\netCoreMvcTest\obj\Debug\netcoreapp2.0\netCoreMvcTest.csproj.CoreCompileInputs.cache
+E:\.net core test\netCoreMvcTest\obj\Debug\netcoreapp2.0\netCoreMvcTest.AssemblyInfoInputs.cache
+E:\.net core test\netCoreMvcTest\obj\Debug\netcoreapp2.0\netCoreMvcTest.AssemblyInfo.cs
+E:\.net core test\netCoreMvcTest\obj\Debug\netcoreapp2.0\netCoreMvcTest.dll
+E:\.net core test\netCoreMvcTest\obj\Debug\netcoreapp2.0\netCoreMvcTest.pdb
